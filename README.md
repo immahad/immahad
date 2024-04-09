@@ -1,6 +1,6 @@
 👋 Hi, I'm @immahad.
 👀 I'm passionate about programming and development.
-🌱 Currently learning Web Development and C.
+🌱 Currently learning Web Development and OOP in java.
 💞️ Open to collaboration on exciting projects.
 📫 Reach me on LinkedIn: www.linkedin.com/in/mahad-jawad-81302b2a1
 ⚡ Fun fact: I am pursuing Bachelor's degree in Computer Science with boundless enthusiasm for technology and innovation.
